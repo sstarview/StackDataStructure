@@ -20,6 +20,7 @@ namespace StackDataStructure
       stack.Pop(myArray);
       stack.Pop(myArray);
       stack.Pop(myArray);
+
       for (int i = 0; i < myArray.Length; i++)
       {
         Console.WriteLine(myArray[i]);
